@@ -1,0 +1,21 @@
+{
+  "values": {
+    "before": [
+      {
+        "type": "projecte:item",
+        "emc_value": 256000,
+        "id": "ae2:singularity"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "id": "ae2:matter_ball"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "id": "extendedae:entro_crystal"
+      }
+    ]
+  }
+}
